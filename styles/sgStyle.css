@@ -1,0 +1,82 @@
+.bodyContent{
+    display: flex;
+}
+
+.sgContent{
+padding: 12px;
+}
+
+.sgSec-1 img{
+    margin: 10px;
+}
+
+.sgSec-2 img{
+    width: 45%;
+    max-width: 75%;
+    height: auto;
+
+}
+
+.fontContent{
+    list-style: none;
+    padding: 10px;
+}
+
+.lorem{
+    width: 50%;
+    max-width: 50%;
+}
+
+.colorbox{
+    width: 35px;
+    height: 25px;
+    margin: 20px;
+    padding: 10px;
+    border-bottom-right-radius: 15px;
+}
+
+.colorBox-Wrapper{
+    display: flex;
+    padding-left: 10px;
+}
+
+.colorCode{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.techLabels ul{
+    list-style: none;
+    font-size: 36px;
+    display: flex;
+    margin: 10px;
+}
+
+.techLabels li{
+    margin: 25px;
+}
+
+.active, .sgLinks:hover{
+    background-color: #efe5df;
+}
+
+.sgSec{
+    padding: 10px 0;
+}
+
+.mainLink a{
+    text-decoration: none;
+    color: black;
+    transition: 100ms ease linear;
+    padding: 4px 8px;
+    transition: 250ms ease linear;
+
+}
+
+.mainLink a:hover{
+    background-color: #C4BCB7;
+}
+

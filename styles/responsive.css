@@ -1,0 +1,32 @@
+@media (min-width: 768px){
+
+    .header_container{
+        padding-top: 15px;
+    }
+
+    .heroImg{
+        height: 650px;
+        width: 450px;
+    }
+
+    .heroTitle{
+        font-size: 4em;
+        width: 30%;
+    }
+
+    .quote{
+        font-size: 18px;
+        width: 400px;
+    }
+}
+
+@media (min-width: 1025px){
+    .projectCards{
+        display: flex;
+    }
+
+    .about_container{
+        width: 50%;
+        margin: auto;
+    }
+}
